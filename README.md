@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Professional README Generator is a Command Line Interface (CLI) tool designed to streamline the process of creating well-structured README.md files for your projects. By answering a series of guided prompts, developers can effortlessly generate a professional README that includes essential details such as licensing, installation instructions, usage guidelines, and more. This tool helps developers focus on building their projects while ensuring their documentation remains comprehensive and polished.
+The Professional README Generator is a Command Line Interface (CLI) tool designed to streamline the process of creating well-structured README.md files for your projects. By answering a series of guided prompts, developers can effortlessly generate a professional README that includes essential details such as licensing, installation instructions, usage guidelines, and more. This tool helps developers focus on building their projects while ensuring their documentation remains comprehensive and polished. This code was created using javascript. I also used the Xpert learning assistant application to help clean and review my code.
 
 ## Table of Contents
 
